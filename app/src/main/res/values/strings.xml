@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EMS Driver</string>
+    <string name="title_activity_welcome">Map</string>
+    <string name="google_direction_api">AIzaSyCZBxAhtELx-gVBk48-M8239b8dtbzIeYU</string>
+</resources>
